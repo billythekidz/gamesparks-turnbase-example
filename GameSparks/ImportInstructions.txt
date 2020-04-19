@@ -1,0 +1,5 @@
+1. Log in to your GameSparks account.
+2. Create a game (unless you have one already).
+3. Go to Configurator/CloudCode.
+4. At the bottom of the Scripts panel you will find a couple of icons. Click the one that says 'Import'.
+5. Select 'HeartsAndSkulls - CloudCode.zip' file.
